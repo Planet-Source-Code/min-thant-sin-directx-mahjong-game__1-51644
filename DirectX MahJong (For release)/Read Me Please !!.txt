@@ -1,0 +1,14 @@
+There are four graphics files.
+
+Put the graphics files :
+(1) AlphaFadingBlocks.bmp
+(2) Background.bmp
+(3) MahJongTiles.bmp , and
+(4) GameOver.bmp
+
+in the folder named < Graphics >
+
+In other words, the path will be App.Path & "\Graphics"
+
+
+
